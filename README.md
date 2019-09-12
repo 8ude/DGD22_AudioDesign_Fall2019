@@ -1,9 +1,9 @@
 # DGD22_AudioDesign_Fall2019
 Fall 2019 Section of Audio Design for Games at LIU Post
 
-See the [Wiki] (https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Helpful Links and slides from past weeks
+See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Helpful Links and slides from past weeks
 
-You can find the [Syllabus here] (https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
+You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
 WEEK 1 ASSIGNMENTS
 
