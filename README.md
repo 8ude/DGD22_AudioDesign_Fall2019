@@ -5,7 +5,16 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
+WEEK 2 ASSIGNMENT
+------
+Sound Collage - Create a 3-5 minute “story” (whatever that means to you) using samples sourced from Freesound.org (or elsewhere).  Experiment with different sample rates, bit depths, and sculpting using filters and EQ.
+
+[Here's a quick tutorial on Rendering Reaper files](https://docs.google.com/document/d/1u33zeQcDhvRbJRrL2OdQ2vjyfth48lWYiCvT-erEX1c/edit?usp=sharing) 
+
+Post your sound files [HERE]https://drive.google.com/open?id=1HrcL6GNCJ9EXvec5hhoKvY6lRSxjHI8s when you are done.
+
 WEEK 1 ASSIGNMENTS
+------
 
 Reading - [Seeing Circles Signs & Signals: “Intro, Signals & Sound” & “Sines & Sampling”](https://jackschaedler.github.io/circles-sines-signals/); please finish reading by Thursday, September 13
 
