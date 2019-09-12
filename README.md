@@ -11,7 +11,7 @@ Sound Collage - Create a 3-5 minute “story” (whatever that means to you) usi
 
 [Here's a quick tutorial on Rendering Reaper files](https://docs.google.com/document/d/1u33zeQcDhvRbJRrL2OdQ2vjyfth48lWYiCvT-erEX1c/edit?usp=sharing) 
 
-Post your sound files [HERE]https://drive.google.com/open?id=1HrcL6GNCJ9EXvec5hhoKvY6lRSxjHI8s when you are done.
+Post your sound files [HERE](https://drive.google.com/open?id=1HrcL6GNCJ9EXvec5hhoKvY6lRSxjHI8s) when you are done.
 
 WEEK 1 ASSIGNMENTS
 ------
