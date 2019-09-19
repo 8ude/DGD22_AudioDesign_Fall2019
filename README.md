@@ -5,6 +5,9 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
+WEEK 3 ASSIGNMENT
+------
+
 [Choose 3 animated gifs from this directory](https://drive.google.com/open?id=1e_qmV88zN6YjvZpqyoVz3NtHGxD1qU3e).  If you want, you can find or make your own, provided that they are roughly 10 seconds long and contain a significant amount of motion.
 
 Add sound effects to accompany the gifs.  The goal for the first pass is to have a distinct sound for every distinct motion - try to make it believable, as if the motions in the gif are producing the sound. 
