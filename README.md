@@ -16,7 +16,7 @@ Then, do a "second pass" on the same 3 gifs.  Choose different source material, 
 
 Render these (there should be 6 total) as WEBM videos and [upload them here when you're done](https://drive.google.com/open?id=1qxrEmKnZQF3m_l4I2pQ5KADMj9tTX0I5).  Make a sub-folder with your name.   
 
-Also, if you need a refresher on how to render WEBM videos, you can check the [Tutorials Page](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki/Tutorials) on the Wiki.
+Also, if you need a refresher on how to render WEBM videos, I posted [this Tutorial](https://docs.google.com/document/d/1lyYhiCBcFWdTNpawd_aliKmS_cWuGRJJSpvW0MW8tvg/edit?usp=sharing) on the Wiki.
 
 WEEK 2 ASSIGNMENT
 ------
