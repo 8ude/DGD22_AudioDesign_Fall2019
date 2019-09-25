@@ -12,9 +12,9 @@ WEEK 3 ASSIGNMENT
 
 Add sound effects to accompany the gifs.  The goal for the first pass is to have a distinct sound for every distinct motion - try to make it believable, as if the motions in the gif are producing the sound. 
 
-Then, do a "second pass."  Choose different source material, and take a different artistic direction.  Try to still have sound for almost every motion. 
+Then, do a "second pass" on the same 3 gifs.  Choose different source material, and take a different artistic direction.  Try to still have sound for almost every motion. 
 
-Render these (there should be 6 total)as WEBM videos and [upload them here when you're done](https://drive.google.com/open?id=1qxrEmKnZQF3m_l4I2pQ5KADMj9tTX0I5).  Make a sub-folder with your name 
+Render these (there should be 6 total) as WEBM videos and [upload them here when you're done](https://drive.google.com/open?id=1qxrEmKnZQF3m_l4I2pQ5KADMj9tTX0I5).  Make a sub-folder with your name.   
 
 WEEK 2 ASSIGNMENT
 ------
