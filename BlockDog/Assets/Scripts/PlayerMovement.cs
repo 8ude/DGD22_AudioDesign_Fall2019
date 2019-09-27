@@ -216,7 +216,7 @@ public class PlayerMovement : MonoBehaviour {
         block.rb.velocity = Vector2.zero;
 
         //NewSound
-        AudioDirector.Instance.PlaySound(AudioDirector.Instance.pickupSound, true, transform.position.x, AudioDirector.Instance.throwVolume, 0.2f);
+        AudioDirector.Instance.PlaySound(AudioDirector.Instance.pickupSound, true, transform.position.x, AudioDirector.Instance.pickupVolume, 0.2f);
         
     }
     void GetPushed(float x) {
