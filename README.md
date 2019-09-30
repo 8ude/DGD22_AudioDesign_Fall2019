@@ -11,7 +11,7 @@ WEEK 4 ASSIGNMENT- 2D reskin part 1
 **UPDATE**
 [Follow these steps when making your builds!!](https://docs.google.com/document/d/1VW6J1PAGQ95Zgd4jGxv8iF7ky8drfmOyX_tu4tuZ7aU/edit?usp=sharing)
 
-[And upload your builds here] (https://drive.google.com/open?id=167_QmXOE5cQlvM6wFhkgCvFcQcKmcNwt)
+[And upload your builds here](https://drive.google.com/open?id=167_QmXOE5cQlvM6wFhkgCvFcQcKmcNwt)
 
 
 Gabe Cuzzillo's wonderful game "Block Dog" is silent.  Clone this repo, open BlockDog in Unity Hub, and give it sound!
