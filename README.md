@@ -7,6 +7,13 @@ You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2
 
 WEEK 4 ASSIGNMENT- 2D reskin part 1
 ------
+
+**UPDATE**
+[Follow these steps when making your builds!!](https://docs.google.com/document/d/1VW6J1PAGQ95Zgd4jGxv8iF7ky8drfmOyX_tu4tuZ7aU/edit?usp=sharing)
+
+[And upload your builds here] (https://drive.google.com/open?id=167_QmXOE5cQlvM6wFhkgCvFcQcKmcNwt)
+
+
 Gabe Cuzzillo's wonderful game "Block Dog" is silent.  Clone this repo, open BlockDog in Unity Hub, and give it sound!
 
 You should be working in the Scene called "Block Dog", on the Prefab called "AudioDirector."  Your work begins at the header **Game Sound Effects**. The minimum is to create **13** assets for the game.  2 of these are loops - the Danger Loop and the Background Music ( which could also be background ambience, if you prefer)
