@@ -14,6 +14,10 @@ They've provided you with a small sample library [HERE](https://drive.google.com
 
 You can do whatever you want with these samples, but cannot use audio from anywhere else!
 
+When you are done, please upload [BUILDS HERE](https://drive.google.com/drive/folders/14NyAmWubZjkdUds-PBlc4JpzMyC3VUrq?usp=sharing)
+
+(windows preferred, but if it's a mac build, please also bring it to class on a thumb drive)
+
 WEEK 4 ASSIGNMENT- 2D reskin part 1
 ------
 
