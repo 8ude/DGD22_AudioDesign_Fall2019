@@ -18,6 +18,8 @@ When you are done, please upload [BUILDS HERE](https://drive.google.com/drive/fo
 
 (windows preferred, but if it's a mac build, please also bring it to class on a thumb drive)
 
+In the interest of making sure we can run everyone's game in class, please also create a zip file of your Unity PROJECT and [upload it here when you're done](https://drive.google.com/open?id=1scI-AOAu-PebMLfZIr_bDCxzQ00t9KKR)
+
 WEEK 4 ASSIGNMENT- 2D reskin part 1
 ------
 
