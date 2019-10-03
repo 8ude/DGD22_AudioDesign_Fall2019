@@ -5,8 +5,6 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
-WEEK 5 ASSIGNMENT- 2D reskin part 1
-------
 
 WEEK 5 ASSIGNMENT- 2D reskin part 2
 ------
