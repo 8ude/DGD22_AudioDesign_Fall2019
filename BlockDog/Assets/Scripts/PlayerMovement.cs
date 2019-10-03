@@ -75,6 +75,13 @@ public class PlayerMovement : MonoBehaviour {
         }
         if (Grid.me.gameOver) {
 
+            //NewSound
+            if (!playedGameOverSound)
+            {
+                AudioDirector.Instance.FadeOutAudio(AudioDirector.Instance.dangerSource, 0.15f);
+                playedGameOverSound = true;
+            }
+
             gameOverInputTimer += Time.deltaTime;
             if (gameOverInputTimer > 1f) {
                 if (Input.GetKeyDown(jumpButton)) {
