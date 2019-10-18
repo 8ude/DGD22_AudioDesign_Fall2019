@@ -5,6 +5,37 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
+
+WEEK 6 ASSIGNMENT- Recordings
+------
+
+Make **3 sound effects** from recordings.  Do some noise removal on these.
+
+Then, name them with the material, the type of motion used, and whether there is one sound or multiple.  For example: WoodCrashMultiple.wav
+
+Make a folder with your name here and upload the [SFX HERE](https://drive.google.com/drive/folders/1YljApbJ_tgyLti7Ek0FtEptwuPxEKBZO?usp=sharing)
+
+In addition, **record 3 ambiences** from interesting spaces (They **cannot** be spaces at the game center, and only one of them can be the subway!).  Your phone will work fine for this, but keep your headphones on when you're recording - your microphone is not hearing the same thing as your ears.
+
+Upload the [ambiences HERE](https://drive.google.com/drive/folders/1XXksB3K-gd4bvjjHaI2mrUX56F-DtDz0?usp=sharing)
+
+When you're done, upload to freesound.org and send me a screenshot as proof!
+
+
+WEEK 5 ASSIGNMENT- 2D reskin part 2
+------
+Your creative director applauds your efforts, but wants to go in a different direction for the audio design.  
+
+They've provided you with a small sample library [HERE](https://drive.google.com/open?id=1LxXc1ixDTijv4gvZXaD3z0bOhZrTRxaS)
+
+You can do whatever you want with these samples, but cannot use audio from anywhere else!
+
+When you are done, please upload [BUILDS HERE](https://drive.google.com/drive/folders/14NyAmWubZjkdUds-PBlc4JpzMyC3VUrq?usp=sharing)
+
+(windows preferred, but if it's a mac build, please also bring it to class on a thumb drive)
+
+In the interest of making sure we can run everyone's game in class, please also create a zip file of your Unity PROJECT and [upload it here when you're done](https://drive.google.com/open?id=1scI-AOAu-PebMLfZIr_bDCxzQ00t9KKR)
+
 WEEK 4 ASSIGNMENT- 2D reskin part 1
 ------
 
