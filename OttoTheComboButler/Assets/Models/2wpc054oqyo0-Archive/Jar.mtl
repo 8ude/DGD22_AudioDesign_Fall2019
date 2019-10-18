@@ -1,0 +1,39 @@
+# Blender MTL File: 'Jar.blend'
+# Material Count: 4
+
+newmtl Label
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/BigZeus/Desktop/Desktop Folder/TVM Stuff/Video Projects/2015-04-16 - Healing Hands/Images/Healing-Hands-Lable-1.png
+
+newmtl balm
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.614611 0.298799
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl jar
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl lid
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2

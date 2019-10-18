@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 9237445fd24cdc949adf6edccce77a61
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Fob
+    100002: geometry
+    100004: Line02
+    100006: Line04
+    100008: Line05
+    100010: Line06
+    100012: //RootNode
+    100014: Rectangle01
+    100016: Rectangle02
+    100018: SomertonDiningTable_RALPH LAUREN
+    100020: VRayLight05
+    100022: VRayLight10
+    100024: VRayLight11
+    100026: VRayLight12
+    100028: VRayLight13
+    100030: VRayPhysicalCamera01
+    100032: VRayPhysicalCamera01.Target
+    100034: VSep02
+    400000: Fob
+    400002: geometry
+    400004: Line02
+    400006: Line04
+    400008: Line05
+    400010: Line06
+    400012: //RootNode
+    400014: Rectangle01
+    400016: Rectangle02
+    400018: SomertonDiningTable_RALPH LAUREN
+    400020: VRayLight05
+    400022: VRayLight10
+    400024: VRayLight11
+    400026: VRayLight12
+    400028: VRayLight13
+    400030: VRayPhysicalCamera01
+    400032: VRayPhysicalCamera01.Target
+    400034: VSep02
+    2000000: VRayPhysicalCamera01
+    2100000: tyjtyjtjy
+    2100002: gold
+    2100004: 'Material #13'
+    2100006: 'Material #0'
+    2300000: Fob
+    2300002: Line02
+    2300004: Line04
+    2300006: Line05
+    2300008: Line06
+    2300010: Rectangle01
+    2300012: Rectangle02
+    3300000: Fob
+    3300002: Line02
+    3300004: Line04
+    3300006: Line05
+    3300008: Line06
+    3300010: Rectangle01
+    3300012: Rectangle02
+    4300000: Fob
+    4300002: Line02
+    4300004: Rectangle01
+    4300006: Rectangle02
+    4300008: Line04
+    4300010: Line05
+    4300012: Line06
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+    6000828045688606266: VRayPhysicalCamera01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 446b582f4d13097488081aa6d6c43593
+timeCreated: 1518234834
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: iron stand
+    100002: //RootNode
+    100004: L
+    100006: L2
+    100008: Line03
+    100010: Line03.Line04
+    100012: m
+    100014: rubber
+    100016: s
+    100018: s2
+    100020: upholstery
+    400000: iron stand
+    400002: //RootNode
+    400004: L
+    400006: L2
+    400008: Line03
+    400010: Line03.Line04
+    400012: m
+    400014: rubber
+    400016: s
+    400018: s2
+    400020: upholstery
+    2100000: upholstery
+    2100002: ironing table ch
+    2100004: white paint
+    2100006: rubber
+    2300000: iron stand
+    2300002: L
+    2300004: L2
+    2300006: Line03
+    2300008: Line03.Line04
+    2300010: m
+    2300012: rubber
+    2300014: s
+    2300016: s2
+    2300018: upholstery
+    3300000: iron stand
+    3300002: L
+    3300004: L2
+    3300006: Line03
+    3300008: Line03.Line04
+    3300010: m
+    3300012: rubber
+    3300014: s
+    3300016: s2
+    3300018: upholstery
+    4300000: upholstery
+    4300002: L
+    4300004: L2
+    4300006: Line03.Line04
+    4300008: s2
+    4300010: Line03
+    4300012: m
+    4300014: s
+    4300016: iron stand
+    4300018: rubber
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

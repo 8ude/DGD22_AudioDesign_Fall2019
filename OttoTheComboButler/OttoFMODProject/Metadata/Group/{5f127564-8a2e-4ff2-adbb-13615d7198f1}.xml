@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MixerGroup" id="{5f127564-8a2e-4ff2-adbb-13615d7198f1}">
+        <property name="name">
+            <value>DiegeticSounds</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{badbb6cb-7cc7-4a96-8e47-5e9641ff8d07}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{435554bf-db98-4fc2-b4d8-83691eca9a24}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{33f2e8fa-3cbc-44ae-950b-3e0f3216095e}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{badbb6cb-7cc7-4a96-8e47-5e9641ff8d07}">
+        <relationship name="effects">
+            <destination>{9722e22d-cdd4-494d-a54b-7b180324ef83}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{435554bf-db98-4fc2-b4d8-83691eca9a24}"/>
+    <object class="MixerBusFader" id="{9722e22d-cdd4-494d-a54b-7b180324ef83}"/>
+</objects>

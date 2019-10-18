@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - greencube
+  - intelligent
+  - cute
+  - smart
+  - breakfast
+  - sharp
+  - bed
+  - paper
+  - COMBO
+  - dramatic
+  - explosive
+  - tasty
+  - clean
+  - funny
+  - comedic
+  - dirty
+  - reset
+  - profittable
+  - hot
+  - risky
+  - shocking
+  - evil
+  - acidic
+  - basic
+  - funky
+  - medicinal
+  - person
+  - oppressive
+  - festive
+  - floaty
+  - inebriated
+  - cooling
+  - Psychedelic
+  - Weak
+  - Profitable
+  - Musical
+  - Fluid
+  - Experimental
+  - Reliable
+  - Thirst Quenching
+  - Robotic
+  - Painful
+  - witchy
+  - ignore
+  - comforting
+  - Sexy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - IgnorePlayer
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
