@@ -5,6 +5,18 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
+CRITICAL LISTENING ASSIGNMENT UPDATE
+------
+This assignment is now a paper, due **November 28 (Thanksgiving)**
+
+Critical Listening - play a game from the provided list, [available here](https://docs.google.com/spreadsheets/d/1Bn5J00GZ341uofRyMuntdbZQDFrSYf6LfDXIevePOCA/edit?usp=sharing), or make a case for a different game.  DO NOT watch a let's play.  Your play session should be about 2-3 hours
+
+Answer the following in 2-3 pages:
+
+* How would you describe the overall audio aesthetic, mood, or feeling of the game?  How do each of the audio layers (music, ambience, and sound effects) support that aesthetic
+* What do you think are the most important sounds, and why? How do sounds change in response to player action (some sounds may be randomized, or connected to in-game physics in interesting ways)?
+* Look up some facts, videos, or interviews about the creation of the game audio - what’s interesting about the techniques or technology used?
+
 WEEK 7/8 ASSIGNMENT- 3D Reskin
 ------
 
