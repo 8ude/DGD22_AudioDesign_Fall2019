@@ -24,6 +24,8 @@ The game Otto the Combo Butler is filled with placeholder sounds, and needs new 
 
 I've included a few [video tutorials in a folder here to get you started](https://drive.google.com/open?id=1a6YK7YoSBG6bv_-HzR3K7W7XYiS7eU-9).
 
+[This video is a walkthrough of the game.](https://drive.google.com/open?id=189lJJme1fQj8XuAUbtkyRW_BFE7bcCS4)
+
 There will be a **progress check on October 24** - aim for about half of the sounds in the game.  Builds will be due on **Oct 31**
 
 You should only really need Unity to test the game and make builds.  Other than that, all of the assignment is going to be done in FMOD Studio
