@@ -20,6 +20,8 @@ Answer the following in 2-3 pages:
 WEEK 7/8 ASSIGNMENT- 3D Reskin
 ------
 
+**LINK TO UPDLOAD BUILDS [HERE](https://drive.google.com/drive/folders/19DXhODLOndGAaPeLQT_hO5f1IJruc7ea?usp=sharing)**
+
 The game Otto the Combo Butler is filled with placeholder sounds, and needs new audio!  Clone the repo, open the Otto Project in both Unity and FMOD, and replace the audio.
 
 I've included a few [video tutorials in a folder here to get you started](https://drive.google.com/open?id=1a6YK7YoSBG6bv_-HzR3K7W7XYiS7eU-9).
