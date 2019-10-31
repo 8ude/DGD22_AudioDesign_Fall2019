@@ -5,6 +5,52 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
+CRITICAL LISTENING ASSIGNMENT UPDATE
+------
+This assignment is now a paper, due **November 28 (Thanksgiving)**
+
+Critical Listening - play a game from the provided list, [available here](https://docs.google.com/spreadsheets/d/1Bn5J00GZ341uofRyMuntdbZQDFrSYf6LfDXIevePOCA/edit?usp=sharing), or make a case for a different game.  DO NOT watch a let's play.  Your play session should be about 2-3 hours
+
+Answer the following in 2-3 pages:
+
+* How would you describe the overall audio aesthetic, mood, or feeling of the game?  How do each of the audio layers (music, ambience, and sound effects) support that aesthetic
+* What do you think are the most important sounds, and why? How do sounds change in response to player action (some sounds may be randomized, or connected to in-game physics in interesting ways)?
+* Look up some facts, videos, or interviews about the creation of the game audio - what’s interesting about the techniques or technology used?
+
+WEEK 7/8 ASSIGNMENT- 3D Reskin
+------
+
+**LINK TO UPDLOAD BUILDS [HERE](https://drive.google.com/drive/folders/19DXhODLOndGAaPeLQT_hO5f1IJruc7ea?usp=sharing)**
+
+The game Otto the Combo Butler is filled with placeholder sounds, and needs new audio!  Clone the repo, open the Otto Project in both Unity and FMOD, and replace the audio.
+
+I've included a few [video tutorials in a folder here to get you started](https://drive.google.com/open?id=1a6YK7YoSBG6bv_-HzR3K7W7XYiS7eU-9).
+
+[This video is a walkthrough of the game.](https://drive.google.com/open?id=189lJJme1fQj8XuAUbtkyRW_BFE7bcCS4)
+
+There will be a **progress check on October 24** - aim for about half of the sounds in the game.  Builds will be due on **Oct 31**
+
+You should only really need Unity to test the game and make builds.  Other than that, all of the assignment is going to be done in FMOD Studio
+
+You must use **at least one sound that you've recorded yourself.**  Additionally, you can use:
+* Whatever you find on the internet, particularly from Freesound.org
+* Any effects.
+
+
+I'm using the [same rubric as last time,](https://docs.google.com/document/d/1WEAa_ZDIDO9yXnfGNs9Qb0WIcTCkBZF3NWzVn5RDqNk/edit?usp=sharing).  Once again, a few things to note:
+
+You will lose points for:
+* Any Unmodified samples.  You need to modify and/or layer the sounds from freesound in some way (changing pitch, stretching, adding effects, etc).
+* Repeating sounds for different actions  Again, treat your samples like ingredients.
+* Sounds that start "late" - your sounds should have little to no silence (0.01 seconds max) at the beginning
+* Sounds that end "early" - your sounds should always fade to silence.
+* Loops with clearly audible seams (I can tell when the loop happens)
+
+Aim for 
+* clarity of actions (can I tell what's going on based on sound?) 
+* consistency (does the sound seem to match with the visuals and animations?)
+and, most importantly, 
+* a sense of style/aesthetics (are the sounds augmenting the game in a way that gives it life and character?).
 
 WEEK 6 ASSIGNMENT- Recordings
 ------
