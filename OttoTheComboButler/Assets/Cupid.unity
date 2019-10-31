@@ -156,7 +156,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: b266c6e09490356469ca319ef4f63d03, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: b266c6e09490356469ca319ef4f63d03, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2447,6 +2447,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 0c7a9daafd338024880c33628a31e92f,
     type: 3}
   m_PrefabInternal: {fileID: 132585039}
+--- !u!1 &137320754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 137320755}
+  - component: {fileID: 137320757}
+  - component: {fileID: 137320756}
+  m_Layer: 0
+  m_Name: HallwaySoundTrigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &137320755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 137320754}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -18.85, y: -0.86, z: -8.47}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 495932958}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &137320756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 137320754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b0e04e2572f9a940a47465f6f3c2f00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CollisionTag: Player
+  parameter: PlayerIsInNeonRoom
+  TriggerEvent: 3
+  value: 0
+--- !u!65 &137320757
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 137320754}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 16.13617, y: 3.6470737, z: 3.0828743}
+  m_Center: {x: 3.1351986, y: 1.3235369, z: 0.5058203}
 --- !u!1001 &138669526
 Prefab:
   m_ObjectHideFlags: 0
@@ -3584,6 +3641,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f32982828bbf23943a461af177b71045, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerMoveSpeed: 4
   cam: {fileID: 41789928}
   testCollider: {fileID: 0}
   floor: {fileID: 0}
@@ -21409,6 +21467,11 @@ Transform:
   m_Father: {fileID: 1313981778}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!4 &495932958 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4012069289795996, guid: a861c35c24f32a7428f393e5e8825d0a,
+    type: 2}
+  m_PrefabInternal: {fileID: 1994056786}
 --- !u!1 &497235677
 GameObject:
   m_ObjectHideFlags: 0
@@ -22474,7 +22537,7 @@ GameObject:
   - component: {fileID: 572543476}
   m_Layer: 9
   m_Name: Player Body
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22589,6 +22652,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f32982828bbf23943a461af177b71045, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerMoveSpeed: 4
   cam: {fileID: 41789928}
   testCollider: {fileID: 0}
   floor: {fileID: 0}
@@ -89490,6 +89554,63 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.1739678, y: 1.8733207, z: 0.5083313}
   m_Center: {x: -0.055288553, y: -0.00000011920928, z: 0.2553516}
+--- !u!1 &1765550574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1765550575}
+  - component: {fileID: 1765550577}
+  - component: {fileID: 1765550576}
+  m_Layer: 0
+  m_Name: NeonRoomEntrance
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1765550575
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1765550574}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -28.47, y: -0.86, z: -8.47}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 495932958}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1765550576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1765550574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b0e04e2572f9a940a47465f6f3c2f00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CollisionTag: 
+  parameter: PlayerIsInNeonRoom
+  TriggerEvent: 3
+  value: 1
+--- !u!65 &1765550577
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1765550574}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 5.658901, y: 3.6470737, z: 3.5730753}
+  m_Center: {x: 0.05942917, y: 1.3235369, z: 0.8038993}
 --- !u!1 &1775601455
 GameObject:
   m_ObjectHideFlags: 0
@@ -98719,6 +98840,18 @@ Prefab:
     - target: {fileID: 4012069289795996, guid: a861c35c24f32a7428f393e5e8825d0a, type: 2}
       propertyPath: m_RootOrder
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323046080588746, guid: a861c35c24f32a7428f393e5e8825d0a, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -7.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323046080588746, guid: a861c35c24f32a7428f393e5e8825d0a, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -27.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323046080588746, guid: a861c35c24f32a7428f393e5e8825d0a, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.13
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a861c35c24f32a7428f393e5e8825d0a, type: 2}

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.01.10.00">
-    <object class="MixerGroup" id="{9fb814d9-5e5b-4231-8b4c-e8cac642dbb7}">
-        <property name="name">
-            <value>Ambiences</value>
-        </property>
-        <relationship name="effectChain">
-            <destination>{fc4243cc-24b6-4ee4-b305-2707ceec2929}</destination>
-        </relationship>
-        <relationship name="panner">
-            <destination>{1e7059af-92eb-49e1-96c3-fc435fd9309b}</destination>
-        </relationship>
-        <relationship name="output">
-            <destination>{33f2e8fa-3cbc-44ae-950b-3e0f3216095e}</destination>
-        </relationship>
-    </object>
-    <object class="MixerBusEffectChain" id="{fc4243cc-24b6-4ee4-b305-2707ceec2929}">
-        <relationship name="effects">
-            <destination>{08c21267-0d28-46c8-a96e-51b8d2c640a5}</destination>
-        </relationship>
-    </object>
-    <object class="MixerBusPanner" id="{1e7059af-92eb-49e1-96c3-fc435fd9309b}"/>
-    <object class="MixerBusFader" id="{08c21267-0d28-46c8-a96e-51b8d2c640a5}"/>
+<objects serializationModel="Studio.02.00.00">
+	<object class="MixerGroup" id="{9fb814d9-5e5b-4231-8b4c-e8cac642dbb7}">
+		<property name="name">
+			<value>Ambiences</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{fc4243cc-24b6-4ee4-b305-2707ceec2929}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{1e7059af-92eb-49e1-96c3-fc435fd9309b}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{33f2e8fa-3cbc-44ae-950b-3e0f3216095e}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{fc4243cc-24b6-4ee4-b305-2707ceec2929}">
+		<relationship name="effects">
+			<destination>{08c21267-0d28-46c8-a96e-51b8d2c640a5}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{1e7059af-92eb-49e1-96c3-fc435fd9309b}" />
+	<object class="MixerBusFader" id="{08c21267-0d28-46c8-a96e-51b8d2c640a5}" />
 </objects>

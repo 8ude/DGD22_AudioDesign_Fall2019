@@ -66,7 +66,7 @@ public class AudioDirector : MonoBehaviour
     public AudioClip gameOverSound;
     [Range(0f, 1f)] public float gameOverVolume = 1.0f;
 
-    [Header("Player Action Sound Effects")] public AudioClip jumpSound;
+    [Header("Player Action Sound Effects")] public AudioClip[] jumpSound;
     [Range(0f, 1f)] public float jumpVolume = 1.0f;
     public AudioClip pickupSound;
     [Range(0f, 1f)] public float pickupVolume = 1.0f;

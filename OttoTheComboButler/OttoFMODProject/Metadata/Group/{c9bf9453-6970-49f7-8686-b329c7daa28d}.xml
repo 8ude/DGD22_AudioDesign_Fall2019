@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.01.10.00">
-    <object class="MixerGroup" id="{c9bf9453-6970-49f7-8686-b329c7daa28d}">
-        <property name="name">
-            <value>UISounds</value>
-        </property>
-        <relationship name="effectChain">
-            <destination>{d239bfc2-448b-4b6e-a61d-33258f945efd}</destination>
-        </relationship>
-        <relationship name="panner">
-            <destination>{6e9561bf-3247-4468-8647-eb80b29aab27}</destination>
-        </relationship>
-        <relationship name="output">
-            <destination>{33f2e8fa-3cbc-44ae-950b-3e0f3216095e}</destination>
-        </relationship>
-    </object>
-    <object class="MixerBusEffectChain" id="{d239bfc2-448b-4b6e-a61d-33258f945efd}">
-        <relationship name="effects">
-            <destination>{60410a0a-6698-404b-9665-d9521b0e1c92}</destination>
-        </relationship>
-    </object>
-    <object class="MixerBusPanner" id="{6e9561bf-3247-4468-8647-eb80b29aab27}"/>
-    <object class="MixerBusFader" id="{60410a0a-6698-404b-9665-d9521b0e1c92}"/>
+<objects serializationModel="Studio.02.00.00">
+	<object class="MixerGroup" id="{c9bf9453-6970-49f7-8686-b329c7daa28d}">
+		<property name="name">
+			<value>UISounds</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{d239bfc2-448b-4b6e-a61d-33258f945efd}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{6e9561bf-3247-4468-8647-eb80b29aab27}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{33f2e8fa-3cbc-44ae-950b-3e0f3216095e}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{d239bfc2-448b-4b6e-a61d-33258f945efd}">
+		<relationship name="effects">
+			<destination>{60410a0a-6698-404b-9665-d9521b0e1c92}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{6e9561bf-3247-4468-8647-eb80b29aab27}" />
+	<object class="MixerBusFader" id="{60410a0a-6698-404b-9665-d9521b0e1c92}" />
 </objects>

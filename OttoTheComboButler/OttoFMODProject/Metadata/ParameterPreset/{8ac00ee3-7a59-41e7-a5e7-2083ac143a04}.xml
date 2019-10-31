@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{8ac00ee3-7a59-41e7-a5e7-2083ac143a04}">
+		<property name="name">
+			<value>PlayerLocation</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c1b21c22-10d7-4132-a859-b6d5d224c15d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{496bca3b-dc44-4dff-9727-8fe37f916be6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{496bca3b-dc44-4dff-9727-8fe37f916be6}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>6</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Hallway</value>
+			<value>Garage</value>
+			<value>NeonRoom</value>
+			<value>Kitchen</value>
+			<value>Theater</value>
+			<value>Bedroom</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1.1999999284744263</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

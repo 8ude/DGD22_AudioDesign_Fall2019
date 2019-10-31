@@ -7,6 +7,7 @@ using TMPro;
 
 public class PlayerControlStickyGaze : MonoBehaviour {
 
+    public float playerMoveSpeed = 4f;
     public Camera cam;
     public Collider testCollider;
     public Collider floor;
@@ -112,7 +113,7 @@ public class PlayerControlStickyGaze : MonoBehaviour {
     // Use this for initialization
     void Start() {
         //Analytics
-        Tinylytics.AnalyticsManager.LogCustomMetric("New Session", "STARTED");
+        //Tinylytics.AnalyticsManager.LogCustomMetric("New Session", "STARTED");
 
         currentRequestor = "Enbee";
 
@@ -377,9 +378,9 @@ public class PlayerControlStickyGaze : MonoBehaviour {
 
     void Movement() {
         float z = Input.GetAxis("Vertical") * Time.deltaTime;
-        gameObject.transform.position += z * transform.forward * 2f;
+        gameObject.transform.position += z * transform.forward * playerMoveSpeed;
         float x = Input.GetAxis("Horizontal") * Time.deltaTime;
-        gameObject.transform.position += x * transform.right * 2f;
+        gameObject.transform.position += x * transform.right * playerMoveSpeed;
  
 
         this.gameObject.transform.position = new Vector3(gameObject.transform.position.x, 0.93f, gameObject.transform.position.z);
@@ -402,7 +403,7 @@ public class PlayerControlStickyGaze : MonoBehaviour {
         //cam.transform.localEulerAngles = new Vector3(cam.transform.localEulerAngles.x, cam.transform.localEulerAngles.y + Input.GetAxis("Mouse X") * 2f, cam.transform.localEulerAngles.z);
         //cam.transform.localEulerAngles = new Vector3(cam.transform.localEulerAngles.x + Input.GetAxis("Mouse Y") * -2f, cam.transform.localEulerAngles.y, cam.transform.localEulerAngles.z);
         //cancel all forces acting on the player if they are not pressing a button
-        if (!Input.GetKey(KeyCode.W) && !Input.GetKey(KeyCode.S) && !Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.S) && !Input.GetKey(KeyCode.LeftArrow) && !Input.GetKey(KeyCode.RightArrow) && !Input.GetKey(KeyCode.UpArrow) && !Input.GetKey(KeyCode.DownArrow))
+        if (!Input.GetKey(KeyCode.W) && !Input.GetKey(KeyCode.S) && !Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.D) && !Input.GetKey(KeyCode.LeftArrow) && !Input.GetKey(KeyCode.RightArrow) && !Input.GetKey(KeyCode.UpArrow) && !Input.GetKey(KeyCode.DownArrow))
         {
             this.gameObject.GetComponent<Rigidbody>().velocity = Vector3.zero;
             this.gameObject.GetComponent<Rigidbody>().angularVelocity = Vector3.zero;
@@ -581,8 +582,8 @@ public class PlayerControlStickyGaze : MonoBehaviour {
                         if (checkMatchingTags("clean", "dirty") && MyObjects.Count <= 2) {
                             //success
                             Debug.Log("YOU COMBINED CORRECTLY");
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 1 Solve Time (sec)", (puzzle1Timer / 60).ToString());
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 1", numWrongCombos.ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 1 Solve Time (sec)", (puzzle1Timer / 60).ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 1", numWrongCombos.ToString());
                             numWrongCombos = 0;
                             puzzle1Timer = 0;
                             //Remove old objects for new one
@@ -648,8 +649,8 @@ public class PlayerControlStickyGaze : MonoBehaviour {
                         {
                             //success
                             Debug.Log("YOU COMBINED CORRECTLY");
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 2 Solve Time (sec)", (puzzle1Timer / 60).ToString());
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 2", numWrongCombos.ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 2 Solve Time (sec)", (puzzle1Timer / 60).ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 2", numWrongCombos.ToString());
                             numWrongCombos = 0;
                             puzzle1Timer = 0;
                             //Remove old objects for new one
@@ -710,8 +711,8 @@ public class PlayerControlStickyGaze : MonoBehaviour {
                         if (checkMatchingTags("hot", "risky") && MyObjects.Count <= 2) {
                             //success
                             Debug.Log("YOU COMBINED CORRECTLY");
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 3 Solve Time (sec)", (puzzle1Timer / 60).ToString());
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 3", numWrongCombos.ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 3 Solve Time (sec)", (puzzle1Timer / 60).ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 3", numWrongCombos.ToString());
                             numWrongCombos = 0;
                             puzzle1Timer = 0;
                             //Remove old objects for new one
@@ -780,8 +781,8 @@ public class PlayerControlStickyGaze : MonoBehaviour {
                         {
                             //success
                             Debug.Log("YOU COMBINED CORRECTLY");
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 4 Solve Time (sec)", (puzzle1Timer / 60).ToString());
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 4", numWrongCombos.ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 4 Solve Time (sec)", (puzzle1Timer / 60).ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 4", numWrongCombos.ToString());
                             numWrongCombos = 0;
                             puzzle1Timer = 0;
                             //Remove old objects for new one
@@ -842,8 +843,8 @@ public class PlayerControlStickyGaze : MonoBehaviour {
                         {
                             //success
                             Debug.Log("YOU COMBINED CORRECTLY");
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 5 Solve Time (sec)", (puzzle1Timer / 60).ToString());
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 5", numWrongCombos.ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 5 Solve Time (sec)", (puzzle1Timer / 60).ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 5", numWrongCombos.ToString());
                             numWrongCombos = 0;
                             puzzle1Timer = 0;
                             //Remove old objects for new one
@@ -911,8 +912,8 @@ public class PlayerControlStickyGaze : MonoBehaviour {
                         {
                             //success
                             Debug.Log("YOU COMBINED CORRECTLY");
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 6 Solve Time (sec)", (puzzle1Timer / 60).ToString());
-                            Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 6", numWrongCombos.ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Puzzle 6 Solve Time (sec)", (puzzle1Timer / 60).ToString());
+                            //Tinylytics.AnalyticsManager.LogCustomMetric("Wrong Combination Attempts To Puzzle 6", numWrongCombos.ToString());
                             numWrongCombos = 0;
                             puzzle1Timer = 0;
                             //Remove old objects for new one
