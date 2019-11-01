@@ -5,6 +5,23 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
+WEEK 9 ASSIGNMENT: SOUND SPACE
+------
+Happy Halloween!  In class we started making a haunted house using Unity and Google's Resonance Audio (Available [HERE](https://resonance-audio.github.io/resonance-audio/))  You can either continue with that, or create a different sonic space.
+
+Start by taking the Resonance Audio Demo Scene, copying it like we did in class, then remove everything but the Player and the point light.  Then greybox your environment using unity primitives (planes, cubes etc), and place your audio sources in the scene.  Make sure these have the ResonanceAudioSource component on them.
+
+You must use:
+ - At least 7 unique sounds
+ - At least 3 unique spaces (I recommend using the ResonanceAudioRoom prefab - available under Assets > ResonanceAudio > Prefabs )
+
+
+Also, if you want to do the creepy backwards reverb sound but forgot how, here's a [tutorial](https://drive.google.com/file/d/1d18AdyQfx8fboDTTr75TYRILAKgjfs3l/view?usp=sharing)
+
+If you want a sound to play when the player enters an area, add a 3D collider to the game object with the sound, set "IsTrigger" to true, and add [this script](https://drive.google.com/file/d/1iXDeRDorEmIpS4t94d8U3BsBCTl_5z-5/view?usp=sharing)
+
+Make a build (Windows Preferred) **and upload it [HERE](https://drive.google.com/drive/folders/1dcUaA5YRG-ZneWmEGHZXkmHOAA0vPzDT?usp=sharing)**
+
 CRITICAL LISTENING ASSIGNMENT UPDATE
 ------
 This assignment is now a paper, due **November 28 (Thanksgiving)**
