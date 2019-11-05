@@ -7,6 +7,8 @@ You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2
 
 WEEK 9 ASSIGNMENT: SOUND SPACE
 ------
+UPDATE - [here's a refresher tutorial on what we covered in Thursday's class.](https://drive.google.com/file/d/1XJ_36aDL4MXitZgNpxlnKwxGT-rFeAkO/view?usp=sharing) The ending doesn't have sound in the Unity scene (issues with my screencap software), but rest assured I could here the creepy baby sound.
+
 Happy Halloween!  In class we started making a haunted house using Unity and Google's Resonance Audio (Available [HERE](https://github.com/resonance-audio/resonance-audio-unity-sdk/releases))  You can either continue with that, or create a different sonic space.
 
 Start by taking the Resonance Audio Demo Scene, copying it like we did in class, then remove everything but the Player and the point light.  Then greybox your environment using unity primitives (planes, cubes etc), and place your audio sources in the scene.  Make sure these have the ResonanceAudioSource component on them.
