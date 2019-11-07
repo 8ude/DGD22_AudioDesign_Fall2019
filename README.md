@@ -5,6 +5,21 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
+WEEK 10 ASSIGNMENT: MUSIC
+------
+Make 2 sections of music - think of them as an "A section" and a "B section."  If you don't like working in reaper, I recommend trying something like [Chrome's Song Maker tool](https://musiclab.chromeexperiments.com/Song-Maker/)
+
+Bring the Stems (Melody, Bass, Percussion, etc) into FMOD and add some interactivity that you connect to a parameter.  
+
+Some ideas (just suggestions, use what works for your music):
+- have instruments fade in/out based on a "PlayerStatus" parameter
+- change song sections based on a "PlayerLocation" parameter
+- make some ambient fragments, then use the ScattererInstrument to trigger them at random
+
+When you're done, zip your FMOD Project and [UPLOAD IT HERE](https://drive.google.com/drive/folders/1kC0ewoHoJ6sX8asBrU5fLippFZvlR_P_?usp=sharing)
+
+
+
 WEEK 9 ASSIGNMENT: SOUND SPACE
 ------
 UPDATE - [here's a refresher tutorial on what we covered in Thursday's class.](https://drive.google.com/file/d/1XJ_36aDL4MXitZgNpxlnKwxGT-rFeAkO/view?usp=sharing) The ending doesn't have sound in the Unity scene (issues with my screencap software), but rest assured I could here the creepy baby sound.
