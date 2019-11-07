@@ -7,7 +7,7 @@ You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2
 
 WEEK 10 ASSIGNMENT: MUSIC
 ------
-Make 2 sections of music - think of them as an "A section" and a "B section."  If you don't like working in reaper, I recommend trying something like [Chrome's Song Maker tool](https://musiclab.chromeexperiments.com/Song-Maker/)
+Make 2 sections of music - think of them as an "A section" and a "B section."  Here's a [Sample Reaper Project with some instruments set up](https://drive.google.com/file/d/1T7Pv7u1g1VZosPoHqLuHV9vSawDRu1ma/view?usp=sharing). If you don't like working in Reaper, I recommend trying something like [Chrome's Song Maker tool](https://musiclab.chromeexperiments.com/Song-Maker/)
 
 Bring the Stems (Melody, Bass, Percussion, etc) into FMOD and add some interactivity that you connect to a parameter.  
 
