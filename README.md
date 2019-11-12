@@ -7,6 +7,8 @@ You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2
 
 WEEK 10 ASSIGNMENT: MUSIC
 ------
+UPDATE - [here's a video tutorial on how to make some basic music and get it into FMOD](https://drive.google.com/file/d/18PHD8v154JqQGO5j9gvaWHmH-fm0Dbxj/view?usp=sharing)
+
 Make 2 sections of music - think of them as an "A section" and a "B section."  Here's a [Sample Reaper Project with some instruments set up](https://drive.google.com/file/d/1T7Pv7u1g1VZosPoHqLuHV9vSawDRu1ma/view?usp=sharing). If you don't like working in Reaper, I recommend trying something like [Chrome's Song Maker tool](https://musiclab.chromeexperiments.com/Song-Maker/)
 
 If you're working on your own computer, you can make use of some of the apps and plugins on the [Musical Resources Page](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki/Musical-Resources)
