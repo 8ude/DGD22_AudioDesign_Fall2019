@@ -5,6 +5,27 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
+FINAL PROJECT
+------
+
+Your final project for this class is going to be to make an **audio only game** - as in, a game that has no visual feedback.
+
+If you need some inspiration, [here is a website dedicted to audio-only games](https://audiogames.net/list-games/)
+
+You can work in groups (no more than 3 please), and you can use Unity and whatever tools you've used in the class.
+
+On **Thursday Nov 21** I will expect you to have your group decided, and your basic concept figured out.
+
+You will present your games at the last class on **Thursday December 5** 
+
+Put your final build together with a text or pdf file that contains:
+- your game name
+- your team members names
+- instructions on how to play
+
+And upload a compressed file [HERE](https://drive.google.com/open?id=1n4s3YCHstiJ3mV2EGqxQq1QWx091Wsau)
+
+
 WEEK 10 ASSIGNMENT: MUSIC
 ------
 UPDATE - [here's a video tutorial on how to make some basic music and get it into FMOD](https://drive.google.com/file/d/18PHD8v154JqQGO5j9gvaWHmH-fm0Dbxj/view?usp=sharing)
