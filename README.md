@@ -76,6 +76,10 @@ Answer the following in 2-3 pages:
 * What do you think are the most important sounds, and why? How do sounds change in response to player action (some sounds may be randomized, or connected to in-game physics in interesting ways)?
 * Look up some facts, videos, or interviews about the creation of the game audio - what’s interesting about the techniques or technology used?
 
+I'm not particularly concerned about citations or format, but if you found something interesting about the sound design process (could be an article, video, or blog post), please include a link to the source in your paper.
+
+Please upload it [HERE](https://drive.google.com/drive/folders/1i38BAPNPJVRiLXmpEvtYFc2Wme6xhZWW?usp=sharing)
+
 WEEK 7/8 ASSIGNMENT- 3D Reskin
 ------
 
