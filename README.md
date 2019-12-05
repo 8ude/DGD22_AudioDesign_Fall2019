@@ -5,6 +5,12 @@ See the [Wiki](https://github.com/8ude/DGD22_AudioDesign_Fall2019/wiki) for Help
 
 You can find the [Syllabus here](https://github.com/8ude/DGD22_AudioDesign_Fall2019/blob/master/2019_Fall_CoreyBertelsen_AudioDesignForGamesDGD22%20001.pdf)
 
+COURSE EVALS
+------
+PLEASE COMPLETE THE COURSE EVAL!
+
+[AVAILABLE HERE](https://urldefense.com/v3/__https://liu.iasystem.org/survey/3178__;!i36rNXNu33mP!rJH4c9RkROfX_icfQIdi5l_DEofnxnEFm5mdd2ZTThRQBkF7YSNk-0fP3G3Trnbl9goi$)
+
 FINAL PROJECT
 ------
 
